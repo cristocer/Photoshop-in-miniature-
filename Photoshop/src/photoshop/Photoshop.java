@@ -69,7 +69,7 @@ public class Photoshop extends Application {
         
                
 
-		//Add all the event handlers (this is a minimal GUI - you may try to do better)
+		//Add all the event handlers 
 		invert_button.setOnAction(new EventHandler<ActionEvent>() {
             @Override
             public void handle(ActionEvent event) {
